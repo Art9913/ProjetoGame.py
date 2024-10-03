@@ -1,4 +1,4 @@
-mport random
+import random
 
 
 tank_defense = 51
